@@ -21,9 +21,6 @@ The goal is to make music discovery and journaling social, visual, and fun.
 
 - **Swift 5 / SwiftUI** – modern declarative UI  
 - **Xcode 16+** – primary development environment  
-- **MVVM architecture** – separation of UI, logic, and data  
-- **CoreData (or Firebase)** – for saving user reviews and albums  
-- **MusicBrainz API (planned)** – to fetch album metadata and artwork  
 
 ---
 
