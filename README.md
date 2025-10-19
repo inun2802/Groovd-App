@@ -5,6 +5,7 @@ Groovd is a music review app that lets users log, rate, and share their thoughts
 
 ## Team Members
 Gimena Rios Moreno
+
 Isaiah Nunez
 
 ---
